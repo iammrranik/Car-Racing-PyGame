@@ -11,7 +11,7 @@
 
 
 ## ✨ Status
-🚧 **Currently Under Development**  
+🚧 **Completed**  
 🧠 Built with Python 3.14.3  
 🎮 Uses [pygame-ce](https://github.com/pygame-community/pygame-ce)  
 🎯 Designed for Midterm Evaluation  
