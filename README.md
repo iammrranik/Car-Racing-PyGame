@@ -133,7 +133,6 @@ This is a classic car racing game built for a Python midterm project. The player
 │   ├── Icon/
 │   │   └── icon.ico
 │   ├── Road/
-│   │   ├── OIG2.jfif
 │   │   └── road1.png
 └───|
 ```
